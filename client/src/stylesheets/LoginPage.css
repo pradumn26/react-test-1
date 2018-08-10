@@ -1,0 +1,16 @@
+#loginPageContainer {
+  height: 100vh;
+  width: 100vw;
+  background-color: #f5f5f5; }
+  #loginPageContainer #loginPageCard {
+    height: 400px;
+    width: 300px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 10px 10px 50px 5px #dddddd;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 120px; }
+
+/*# sourceMappingURL=LoginPage.css.map */
