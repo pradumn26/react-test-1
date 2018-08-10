@@ -12,5 +12,24 @@
     left: 50%;
     transform: translateX(-50%);
     margin-top: 120px; }
+    #loginPageContainer #loginPageCard h3 {
+      text-align: center;
+      padding: 10px; }
+    #loginPageContainer #loginPageCard form {
+      margin-top: 70px; }
+      #loginPageContainer #loginPageCard form .loginPageInput {
+        display: block;
+        margin: auto;
+        height: 40px;
+        width: 220px;
+        margin-bottom: 20px; }
+      #loginPageContainer #loginPageCard form .loginPageButton {
+        display: block;
+        margin: auto;
+        background-color: #00bfa5;
+        margin-bottom: 20px;
+        color: white; }
+      #loginPageContainer #loginPageCard form div {
+        text-align: center; }
 
 /*# sourceMappingURL=LoginPage.css.map */

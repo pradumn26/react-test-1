@@ -13,5 +13,34 @@
     left: 50%;
     transform: translateX(-50%);
     margin-top: 120px;
+
+    h3 {
+      text-align: center;
+      padding: 10px;
+    }
+
+    form {
+      margin-top: 70px;
+
+      .loginPageInput {
+        display: block;
+        margin: auto;
+        height: 40px;
+        width: 220px;
+        margin-bottom: 20px;
+      }
+
+      .loginPageButton {
+        display: block;
+        margin: auto;
+        background-color: #00bfa5;
+        margin-bottom: 20px;
+        color: white;
+      }
+
+      div {
+        text-align: center;
+      }
+    }
   }
 }
